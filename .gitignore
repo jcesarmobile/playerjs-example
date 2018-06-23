@@ -1,0 +1,11 @@
+platforms/
+plugins/
+node_modules/
+hooks/
+android/
+.vscode/
+.gradle/
+res/
+typings/
+jsconfig.json
+package-lock.json

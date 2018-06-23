@@ -1,0 +1,6 @@
+{
+  "appId": "es.test.player",
+  "appName": "playerjs",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
